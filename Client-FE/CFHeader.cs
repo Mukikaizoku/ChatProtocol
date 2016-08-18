@@ -25,7 +25,7 @@ enum CFMessageType : short
     Logout = 220,
 
     ChangePassword = 230,
-    RemoveAccound = 240,
+    RemoveAccount = 240,
     
     Room_Create = 310,
     Room_Leave = 320,
